@@ -25,7 +25,7 @@ public class HealthyBurger extends Hamburger {
         if (wantExtra.equals("Y")){
             int extraCount = 0;
             System.out.println("You may choose up to 2 items from the following additions:");
-            System.out.println("lettuces, tomatos, carrots, onions, pineapples and mushrums.");
+            System.out.println("lettuces, tomatoes, carrots, onions, pineapples and mushrums.");
 
             for (int i = 1; i <= 6; i++){
                 if (extraCount >= 2){

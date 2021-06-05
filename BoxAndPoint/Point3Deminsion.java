@@ -4,8 +4,8 @@ package BoxAndPoint;
  * This class represents a three-dimensional point the x,y and z coordinate.
  * values can get either negative, positive or zero double values.
  *
- * @author Moty (Mordchai) Douek
- * @version 13-03-2019
+ * @author Ziv Grinblat
+ * @version 15-04-2021
  */
 public class Point3Deminsion{
 

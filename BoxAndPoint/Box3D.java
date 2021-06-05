@@ -5,8 +5,8 @@ package BoxAndPoint;
  * The box is represented by its lower-left-front point and three integers for the length (x axis), width (y axis) and height (z axis) of the box. 
  * the box dimensions must be equal or greater than 1.
  *
- * @author Moty (Mordchai) Douek
- * @version 14-03-2019
+ * @author Ziv Grinblat
+ * @version 16-04-2021
  */
 public class Box3D{
 
